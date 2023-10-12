@@ -1,0 +1,85 @@
+/* Body = sélecteur (type element) */
+body {
+    font-family: Arial, Helvetica, sans serif; /* infique la police de caractères (fony) */
+    color: red;
+    font-size: 12 px;
+    font-weight: bold; /* graisse de la font */
+}
+
+h1 {
+    color: black;
+    
+}
+
+ul  {
+    color: blueviolet;
+    list-style-type: circle;
+}
+
+.navi  {
+text-decoration: none;
+color: white;
+padding: 10px;
+display: inline-block;
+border: dotted 2px redgit ;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    display: inline;
+}
+
+nav I  { 
+    font-size: medium;
+    height: 500px;
+    padding: 12px; 
+    border: solid, blue;
+}
+
+.gras  {
+
+    font-weight: bold;
+ }
+
+ .barre {
+    text-decoration: line-through;
+}
+
+.souligne {
+    text-decoration: underline;
+}
+
+#paragraphe2
+{
+    font-size: 100;
+   font-weight: bold;
+   color: black;
+}
+
+.italique 
+{
+font-style: italic;
+}
+
+.rouge 
+{
+    color: red;
+
+}
+
+.bordure {
+    border: solid 1px;
+    color: black; 
+}
+
+.navi:hover  {
+    color: black; 
+    
+
+}
+
+
+
+
+/* #paragraphe1 = sélecteur (type = ID) 
